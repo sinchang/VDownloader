@@ -1,0 +1,40 @@
+.vdownloader-btn {
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  text-align: center;
+  width: 84px;
+  height: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  font-weight: normal;
+  color: #fff;
+  border-radius: 2px;
+}
+
+.krcom-btn {
+  background-color: #FF8200;
+}
+
+.miaopai-btn {
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #ffd600;
+}
+
+.weibo-btn {
+  background-color: #eb7350;
+}
+
+.ixigua-btn {
+  background-color: #ed4040;
+}
+
+.ixigua-btn:hover {
+  color: #fff;
+}
+
+.meipai-btn {
+  margin-top: 10px;
+  background-color: #f396be;
+}

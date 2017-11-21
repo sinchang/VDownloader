@@ -1,0 +1,31 @@
+{
+  "name": "VDownloader",
+  "options_page": "options.html",
+  "background": {
+    "page": "background.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://krcom.cn/*",
+        "http://www.miaopai.com/show/*",
+        "https://weibo.com/tv/*",
+        "https://www.ixigua.com/*",
+        "http://www.meipai.com/media/*",
+        "https://www.bilibili.com/*",
+        "https://github.com/*"
+      ],
+      "js": ["content.bundle.js"]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon-34.png"
+  },
+  "icons": {
+    "128": "icon-128.png"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "permissions": ["tabs", "<all_urls>"]
+}
