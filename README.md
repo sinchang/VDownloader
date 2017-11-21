@@ -14,7 +14,7 @@
 
 ## 下载
 
-- [GitHub Release](https://github.com/sinchang/unu/releases)
+- [GitHub Release](https://github.com/sinchang/vdownloader/releases)
 - [Chrome Store](https://chrome.google.com/webstore/detail/blhndgljjdbeabckacpnonnofdbnflge)
 
 ## 参与开发
