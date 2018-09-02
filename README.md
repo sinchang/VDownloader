@@ -1,6 +1,8 @@
 <p align="center"><img src="https://ws2.sinaimg.cn/large/006tNc79gy1flpojq46jcj303k03kmwy.jpg"></p>
 
-# VDownloader
+# VDownloader 
+
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/blhndgljjdbeabckacpnonnofdbnflge.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/blhndgljjdbeabckacpnonnofdbnflge.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/blhndgljjdbeabckacpnonnofdbnflge.svg)
 
 > 一个辅助你下载网站视频的 Chrome 插件，安装后会自动在支持的网站视频下方新增下载按钮。
 
